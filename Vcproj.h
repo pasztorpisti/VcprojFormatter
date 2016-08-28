@@ -1,9 +1,3 @@
-//
-// Copyright (c) Istvan Pasztor
-// This source has been published on www.codeproject.com under the CPOL license.
-//
-#ifndef __VCPROJ_H__
-#define __VCPROJ_H__
 #pragma once
 
 
@@ -84,6 +78,3 @@ private:
 	IEncoding* m_Encoding;
 	TXmlElementPtr m_Root;
 };
-
-
-#endif

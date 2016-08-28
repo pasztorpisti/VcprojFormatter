@@ -1,10 +1,4 @@
-//
-// Copyright (c) Istvan Pasztor
-// This source has been published on www.codeproject.com under the CPOL license.
-//
-#ifndef __SMART_H__
-#define __SMART_H__
-
+#pragma once
 
 template <typename T>
 class smartptr
@@ -312,6 +306,3 @@ struct SFindHandle
 
 	HANDLE handle;
 };
-
-
-#endif

@@ -1,9 +1,3 @@
-//
-// Copyright (c) Istvan Pasztor
-// This source has been published on www.codeproject.com under the CPOL license.
-//
-#ifndef __XML_ENCODING_H__
-#define __XML_ENCODING_H__
 #pragma once
 
 
@@ -157,6 +151,3 @@ private:
 private:
 	char m_Map[0x10000];
 };
-
-
-#endif
